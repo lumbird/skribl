@@ -1,5 +1,5 @@
 {
-  "name": "skribl",
+  "name": "@lumieslab/skribl",
   "description": "A lightweight library for web development",
   "version": "0.0.1",
   "main": "dist/index.js",
